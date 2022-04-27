@@ -1,17 +1,6 @@
-# unmaintained
-I am not more maintain this project actively for different reasons. One is, that with Vite we have a nicer way to handle different aspects, other is time.
-But I check and can accept pull requests.
-
-### Visit my [Job Board for React Jobs](https://reactjsjob.com)
-
-
 # react-webpack-6-tailwind-2
 
 React 17 Boilerplate with React 17, Webpack 6, Tailwind 2, HMR, using babel, Jest unit testing, sass, with a hot dev server and an optimized production build
-
-[Demo](https://dreamy-shirley-041c74.netlify.app/)
-
-Maintained by [Altafino - Full-Stack Go/JS Development](https://altafino.com)
 
 ## Last Changes (the newest first):
 
